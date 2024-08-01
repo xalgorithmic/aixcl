@@ -14,7 +14,7 @@ AIXCL is an AI-powered software development and engineering platform designed to
 
 **Benefits:**
 
-- User AI Tooling: Write and edit code directly, receive context-aware suggestions, and train your own models.
+- AI Tooling: Write and edit code directly, receive context-aware suggestions, and train your own models.
 - Actionable AI: Access pre-trained models for various tasks and customize them for your needs.
 - AI Code Suggest: Autocomplete your code and receive debugging insights.
 - GitHub AI: Improve code readability and maintainability.
